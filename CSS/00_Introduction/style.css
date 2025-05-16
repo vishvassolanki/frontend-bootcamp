@@ -1,0 +1,9 @@
+/* This is an external css file that link in html  */
+h1 {
+    background-color: green;
+    color: white;
+}
+
+p {
+    background-color: rgb(152, 104, 198);
+}
