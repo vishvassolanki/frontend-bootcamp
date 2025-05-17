@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+}
+
+.one {
+    background-color: green;
+    color: white;
+    width: 400px;
+    height: 200px;
+}
